@@ -1,0 +1,7 @@
+
+{
+    "FirstGameBundleID":"com.abdul.ghafoor.fury.monster.truck4x4.com",
+    "Gameurl1": "https://itunes.apple.com/us/app/fury-monster-truck-4x4/id1483665819",
+    "Gameurl2": "https://itunes.apple.com/us/app/helirobot-transform-2019/id1457346171"
+}
+
