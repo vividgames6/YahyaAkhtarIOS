@@ -10,26 +10,6 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.93"
-    },
-    {
-      "BundleId": "com.vividdgames.modern.tractor.farming.simulator",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
-    },
-    {
-      "BundleId": "com.vividdgames.eurotruck.vs.monstertruck.stunts.car.derby.fearless.crash.demolition",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
-    },
-    {
-      "BundleId": "com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
-    },
-    {
-      "BundleId": "com.vividdgames.atv.quad.bike.racing.stunts.battleground.impossible.tracks.bike.ramp.mania.megaramp",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
-    }      
+    }
   ]
 }
