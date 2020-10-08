@@ -1,7 +1,7 @@
 {
   "AdIds": [
     {
-      "BundleId": "com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure",
+      "BundleId": "com.usama.nawaz.fearless.monster.truck.stunts",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true
     },
