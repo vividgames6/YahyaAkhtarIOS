@@ -10,6 +10,16 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.4"
+    },
+    {
+      "BundleId": "com.usama.nawaz.atv.stunt.mania.quad.bike.race",
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false,
+    },
+    {
+      "BundleId": "com.usama.nawaz.euro.truck.vs.monster.truck.derby",
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false,
     }
   ]
 }
