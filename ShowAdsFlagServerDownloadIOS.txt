@@ -1,15 +1,15 @@
 {
   "AdIds": [
     {
-      "BundleId": "com.usama.nawaz.fearless.monster.truck.stunts",
+      "BundleId": "com.usama.nawaz.us.police.monster.derby",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true
     },
     {
-      "BundleId": "com.vividdgames.monster.stunts.car.derby.fearless.crash.impoosible",
+      "BundleId": "com.usama.nawaz.fearless.monster.truck.stunts",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.93"
+      "BundleVersionCode": "1.4"
     }
   ]
 }
