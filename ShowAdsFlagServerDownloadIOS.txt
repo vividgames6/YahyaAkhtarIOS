@@ -2,8 +2,8 @@
   "AdIds": [
     {
       "BundleId": "com.usama.nawaz.us.police.monster.derby",
-      "ShowAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
     },
     {
       "BundleId": "com.usama.nawaz.fearless.monster.truck.stunts",
