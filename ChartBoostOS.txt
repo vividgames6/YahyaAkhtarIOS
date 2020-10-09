@@ -1,7 +1,5 @@
-
 {
-    "FirstGameBundleID":"com.abdul.ghafoor.fury.monster.truck4x4.com",
-    "Gameurl1": "https://apps.apple.com/us/app/sky-flying-real-3d-car-stunts/id1489628632",
-    "Gameurl2": "https://itunes.apple.com/us/app/helirobot-transform-2019/id1457346171"
+    "FirstGameBundleID":"com.usama.nawaz.atv.stunt.mania.quad.bike.race",
+    "Gameurl1": "https://apps.apple.com/us/app/atv-stunt-mania-quad-bike-race/id1534920732",
+    "Gameurl2": "https://apps.apple.com/us/app/euro-vs-monster-truck-derby/id1535001440"
 }
-

@@ -1,7 +1,7 @@
 {
-  	"Gameurl1": "https://itunes.apple.com/us/app/fury-monster-truck-4x4/id1483665819",
-	"Gameurl2": "https://apps.apple.com/us/app/sky-flying-real-3d-car-stunts/id1489628632",
-	"Gameurl3": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276",
-	"Gameurl4": "https://itunes.apple.com/us/app/boat-fishing-simulator-2019/id1456766276"
+  	"Gameurl1": "https://apps.apple.com/us/app/atv-stunt-mania-quad-bike-race/id1534920732",
+	"Gameurl2": "https://apps.apple.com/us/app/euro-vs-monster-truck-derby/id1535001440",
+	"Gameurl3": "https://apps.apple.com/us/app/fearless-monster-truck-stunts/id1493455221",
+	"Gameurl4": "https://apps.apple.com/us/app/us-police-monster-derby/id1490249929"
     
 }
