@@ -6,6 +6,6 @@
 	"GameName3": "Fearless Monster Truck Stunts",
 	"GameDesc3": "Have you ever experienced extreme car stunts with real impossible tracks like a full speed car racing game? No? Then this Extreme car stunts 3D is solely made for you. In this real stunts monster truck game you’ll be having multiple monster trucks you can perform tremendous fearless monster stunts with a lot of different monster trucks.",
 	"GameName4": "US Police Monster Derby",
-	"GameDesc4": "Are you interested in the real derby feel of US Police against enemies? Then this game is solely for you. Play this and get to know hwo to fight enemies who are gangsters as Police.",
+	"GameDesc4": "Are you interested in the real derby feel of US Police against enemies? Then this game is solely for you. Play this and get to know hwo to fight enemies who are gangsters as Police."
     
 }
