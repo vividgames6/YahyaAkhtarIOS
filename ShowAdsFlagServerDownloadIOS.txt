@@ -13,12 +13,12 @@
     {
       "BundleId": "com.usama.nawaz.atv.stunt.mania.quad.bike.race",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
     },
     {
       "BundleId": "com.usama.nawaz.euro.truck.vs.monster.truck.derby",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
     }
   ]
 }
