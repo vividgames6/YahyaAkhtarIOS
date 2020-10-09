@@ -8,8 +8,7 @@
     {
       "BundleId": "com.usama.nawaz.fearless.monster.truck.stunts",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.5"
+      "ShowCustomNativeAdsFlag": true
     },
     {
       "BundleId": "com.usama.nawaz.atv.stunt.mania.quad.bike.race",
