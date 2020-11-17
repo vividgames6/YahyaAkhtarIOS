@@ -26,7 +26,7 @@
       "BundleId": "com.usama.nawaz.formula.3d.legend.speed.stunts",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.0"
     }
   ]
 }
