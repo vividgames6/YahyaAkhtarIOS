@@ -21,12 +21,17 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true
     },
-    
     {
       "BundleId": "com.usama.nawaz.formula.3d.legend.speed.stunts",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.01"
+    },
+    {
+      "BundleId": "com.usama.nawaz.monster.truck.crash.derby2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
