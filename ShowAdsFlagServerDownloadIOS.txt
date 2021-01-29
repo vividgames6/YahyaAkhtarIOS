@@ -25,10 +25,22 @@
       "BundleId": "com.usama.nawaz.formula.3d.legend.speed.stunts",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.01"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.usama.nawaz.monster.truck.crash.derby2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.usama.nawaz.gt.monster.truck.car.stunts.game2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.usama.nawaz.monster.truck.megaramp.stunts.game2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.1"
