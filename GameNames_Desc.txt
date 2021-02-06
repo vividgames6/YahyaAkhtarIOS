@@ -2,7 +2,7 @@
   	"GameName1": "Monster Truck Crash Derby 202‪1",
 	"GameDesc1": "The time has come to introduce you to the latest free Monster Truck Racing Game of 2021 on App Store. Drive the Extreme Offroad Monster Truck in amazing Demolition Derby Arenas",
 	"GameName2": "Euro vs Monster Truck Derby",
-	"GameDesc2": "Euro Truck VS Monster Truck is finally available on google play store. Buckle up and be ready to fight against monster trucks",
+	"GameDesc2": "Euro Truck VS Monster Truck is finally available on App Store. Buckle up and be ready to fight against monster trucks",
 	"GameName3": "Fearless Monster Truck Stunts",
 	"GameDesc3": "Have you ever experienced extreme car stunts with real impossible tracks like a full speed car racing game? No? Then this Extreme car stunts 3D is solely made for you. In this real stunts monster truck game you’ll be having multiple monster trucks you can perform tremendous fearless monster stunts with a lot of different monster trucks.",
 	"GameName4": "US Police Monster Derby",
