@@ -1,5 +1,5 @@
 {
-    "FirstGameBundleID":"com.usama.nawaz.atv.stunt.mania.quad.bike.race",
-    "Gameurl1": "https://apps.apple.com/us/app/atv-stunt-mania-quad-bike-race/id1534920732",
+    "FirstGameBundleID":"com.usama.nawaz.monster.truck.crash.derby2021",
+    "Gameurl1": "https://apps.apple.com/us/app/monster-truck-crash-derby-2021/id1550307353",
     "Gameurl2": "https://apps.apple.com/us/app/euro-vs-monster-truck-derby/id1535001440"
 }
