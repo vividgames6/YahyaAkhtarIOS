@@ -49,7 +49,7 @@
       "BundleId": "com.usama.nawaz.4x4offroad.project.simulator.jeep.driving",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.3"
     },
     {
       "BundleId": "com.usama.nawaz.pardo.jeep.demolition.derby2021",
