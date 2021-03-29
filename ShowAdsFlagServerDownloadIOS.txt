@@ -19,7 +19,8 @@
     {
       "BundleId": "com.usama.nawaz.euro.truck.vs.monster.truck.derby",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.usama.nawaz.formula.3d.legend.speed.stunts",
