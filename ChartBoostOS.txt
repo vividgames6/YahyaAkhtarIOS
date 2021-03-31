@@ -1,5 +1,5 @@
 {
-    "FirstGameBundleID":"com.usama.nawaz.monster.truck.crash.derby2021",
-    "Gameurl1": "https://apps.apple.com/us/app/monster-truck-crash-derby-2021/id1550307353",
-    "Gameurl2": "https://apps.apple.com/us/app/euro-vs-monster-truck-derby/id1535001440"
+    "FirstGameBundleID":"com.usama.nawaz.4x4offroad.project.simulator.jeep.driving",
+    "Gameurl1": "https://apps.apple.com/us/app/4x4-offroad-project-simulator/id1550935788",
+    "Gameurl2": "https://apps.apple.com/us/app/monster-truck-crash-derby-2021/id1550307353"
 }
