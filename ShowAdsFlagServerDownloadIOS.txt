@@ -57,6 +57,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.2"
+    },
+    {
+      "BundleId": "com.usama.nawaz.monster.truck.bus.4x4racing.demolition.derby",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
