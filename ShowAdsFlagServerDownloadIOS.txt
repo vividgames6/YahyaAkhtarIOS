@@ -63,6 +63,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.0"
+    },
+    {
+      "BundleId": "com.usama.nawaz.tractor4x4.destruction.derby",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.2"
     }
   ]
 }
