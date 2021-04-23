@@ -74,7 +74,7 @@
       "BundleId": "com.usama.nawaz.farm.tractor.harvesting.game",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     }
   ]
 }
