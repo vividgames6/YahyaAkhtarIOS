@@ -1,5 +1,5 @@
 {
-    "FirstGameBundleID":"com.usama.nawaz.4x4offroad.project.simulator.jeep.driving",
-    "Gameurl1": "https://apps.apple.com/us/app/4x4-offroad-project-simulator/id1550935788",
-    "Gameurl2": "https://apps.apple.com/us/app/tractor-4x4-destruction-derby/id1562655210"
+    "FirstGameBundleID":"com.usama.nawaz.tractor4x4.destruction.derby",
+    "Gameurl1": "https://apps.apple.com/us/app/tractor-4x4-destruction-derby/id1562655210",
+    "Gameurl2": "https://apps.apple.com/us/app/4x4-offroad-project-simulator/id1550935788"
 }
