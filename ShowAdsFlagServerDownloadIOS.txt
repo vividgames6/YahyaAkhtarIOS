@@ -32,7 +32,7 @@
       "BundleId": "com.usama.nawaz.monster.truck.crash.derby2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.5"
+      "BundleVersionCode": "1.6"
     },
     {
       "BundleId": "com.usama.nawaz.gt.monster.truck.car.stunts.game2021",
