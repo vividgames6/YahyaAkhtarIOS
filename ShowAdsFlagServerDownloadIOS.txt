@@ -75,6 +75,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.2"
+    },
+    {
+      "BundleId": "com.usama.nawaz.spider.wheel.robotwar.robottransformation.game",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
