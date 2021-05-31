@@ -81,6 +81,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.usama.nawaz.formula.car4x4.derby2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
