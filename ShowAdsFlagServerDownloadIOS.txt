@@ -87,6 +87,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.usama.nawaz.atv.quad.bike.demolition.derby",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.5"
     }
   ]
 }
