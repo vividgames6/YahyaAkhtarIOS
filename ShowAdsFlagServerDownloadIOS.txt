@@ -93,6 +93,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.5"
+    },
+    {
+      "BundleId": "com.usama.nawaz.plan.escape.final.jail.break.prison",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
