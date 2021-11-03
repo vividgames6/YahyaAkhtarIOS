@@ -26,7 +26,7 @@
       "BundleId": "com.usama.nawaz.formula.3d.legend.speed.stunts",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.3"
+      "BundleVersionCode": "1.5"
     },
     {
       "BundleId": "com.usama.nawaz.monster.truck.crash.derby2021",
@@ -86,7 +86,7 @@
       "BundleId": "com.usama.nawaz.formula.car4x4.derby2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.2"
+      "BundleVersionCode": "1.4"
     },
     {
       "BundleId": "com.usama.nawaz.atv.quad.bike.demolition.derby",
